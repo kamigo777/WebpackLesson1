@@ -1,0 +1,3 @@
+# Project exclude paths
+/deploy/
+/node_modules/
